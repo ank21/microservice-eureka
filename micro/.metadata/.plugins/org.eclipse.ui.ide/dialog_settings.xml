@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/ankit/microservice-eureka/hello-server"/>
+		<item value="/home/ankit/microservice-eureka/hello-client"/>
+		<item value="/home/ankit/microservice-eureka/eureka-service"/>
+	</list>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode path=&quot;/hello-server/src/main/java/com/ank/cloud/helloserver/HelloResource.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/hello-client/src/main/java/com/ank/cloud/helloclient/HelloResources.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/hello-client/src/main/resources/application.yml&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/hello-server/src/main/resources/application.yml&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Noto Sans|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="384" key="DIALOG_X_ORIGIN"/>
+			<item value="37" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

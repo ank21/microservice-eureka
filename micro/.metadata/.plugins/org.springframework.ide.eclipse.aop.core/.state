@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="hello-client"/>
+<aop-project name="hello-server"/>
+<aop-project name="eureka-service"/>
+</aop-reference-model>
